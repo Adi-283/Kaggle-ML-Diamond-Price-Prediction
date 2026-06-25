@@ -14,5 +14,5 @@ This project leverages the classic Kaggle Diamonds dataset to build, evaluate, a
 
 ## Tech Stack
 - **Language:** Python
-- **Frameworks:** TensorFlow, Keras, Flask
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Pickle
+- **Frameworks:** TensorFlow, Keras, Flask, Heroku
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Pickle, Streamlit
